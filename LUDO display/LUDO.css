@@ -1,0 +1,57 @@
+table,
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+table{
+    width: 600px;
+    height: 600px;
+    box-sizing: border-box;
+    justify-content: center;
+    margin-left: 450px;
+    margin-top: 45px;
+    border-radius:px;
+    /* box-shadow: 1px 2px 10px 5px black; */
+    padding: 20px;
+}
+.ludoimg{
+   position: absolute;
+   margin-left: 542px;
+   margin-top: -430px;
+    
+}
+.ludoimg img{
+    width: 36%;
+}
+
+.one{
+    background-color:yellow;
+    
+}
+.two{
+    background-color:rgb(255, 0, 0) ;
+}
+.four{
+    background-color: blue;
+}
+.three{
+   background-color: rgb(47, 255, 106) ; 
+}
+.red{
+    background-color: rgb(255, 0, 0);
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: rgb(255, 230, 0);
+}
+.green{
+    background-color: rgb(0, 255, 72) ;
+}
+td{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+
+}
